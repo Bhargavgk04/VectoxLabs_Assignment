@@ -1,0 +1,348 @@
+[
+  {
+    "id": "doc-01",
+    "name": "Dr. Sarah Jenkins",
+    "specialty": "Cardiology",
+    "departmentId": "dept-01",
+    "rating": 4.9,
+    "reviewCount": 128,
+    "experienceYears": 14,
+    "availability": "Available Today",
+    "imageUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&auto=format&fit=crop&q=80",
+    "hospitalAffiliation": "Vectox Heart Institute",
+    "bio": "Fellow of the American College of Cardiology specializing in structural heart disease, complex valvular interventions, and non-invasive telemetry monitoring.",
+    "education": "MD - Johns Hopkins University School of Medicine",
+    "consultationFee": 160,
+    "availableDates": [
+      {
+        "date": "2026-10-20",
+        "slots": ["09:00 AM", "10:30 AM", "01:30 PM", "03:00 PM"]
+      },
+      {
+        "date": "2026-10-21",
+        "slots": ["09:30 AM", "11:00 AM", "02:00 PM"]
+      },
+      {
+        "date": "2026-10-22",
+        "slots": ["10:00 AM", "02:30 PM", "04:00 PM"]
+      }
+    ]
+  },
+  {
+    "id": "doc-02",
+    "name": "Dr. Aaron Vance",
+    "specialty": "Neurology",
+    "departmentId": "dept-02",
+    "rating": 4.8,
+    "reviewCount": 94,
+    "experienceYears": 16,
+    "availability": "Available Today",
+    "imageUrl": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=400&auto=format&fit=crop&q=80",
+    "hospitalAffiliation": "Vectox Neuro & Spine Center",
+    "bio": "Attending neurologist and Director of Stroke Critical Care. Expert in vascular neurology, telemetry-guided acute stroke thrombolysis, and seizure monitoring.",
+    "education": "MD - Stanford University School of Medicine",
+    "consultationFee": 180,
+    "availableDates": [
+      {
+        "date": "2026-10-20",
+        "slots": ["10:00 AM", "11:30 AM", "02:30 PM"]
+      },
+      {
+        "date": "2026-10-21",
+        "slots": ["08:30 AM", "01:00 PM", "03:30 PM"]
+      }
+    ]
+  },
+  {
+    "id": "doc-03",
+    "name": "Dr. Marcus Thorne",
+    "specialty": "Orthopedics",
+    "departmentId": "dept-03",
+    "rating": 4.9,
+    "reviewCount": 142,
+    "experienceYears": 18,
+    "availability": "Next Available: Tomorrow",
+    "imageUrl": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=400&auto=format&fit=crop&q=80",
+    "hospitalAffiliation": "Vectox Orthopedic Pavilion",
+    "bio": "Pioneer in robotic total joint arthroplasty, minimally invasive pelvic reconstruction, and sports tendon repair.",
+    "education": "MD - Harvard Medical School",
+    "consultationFee": 190,
+    "availableDates": [
+      {
+        "date": "2026-10-21",
+        "slots": ["09:00 AM", "11:00 AM", "01:00 PM", "03:00 PM"]
+      },
+      {
+        "date": "2026-10-22",
+        "slots": ["10:30 AM", "02:00 PM"]
+      }
+    ]
+  },
+  {
+    "id": "doc-04",
+    "name": "Dr. Elena Rostova",
+    "specialty": "Pediatrics",
+    "departmentId": "dept-04",
+    "rating": 5.0,
+    "reviewCount": 210,
+    "experienceYears": 12,
+    "availability": "Available Today",
+    "imageUrl": "https://images.unsplash.com/photo-1594824813571-638f02634417?w=400&auto=format&fit=crop&q=80",
+    "hospitalAffiliation": "Vectox Children's Wing",
+    "bio": "Board-certified in pediatric critical care and developmental pediatrics. Passionate about gentle infant care, asthma pathways, and neonatal support.",
+    "education": "MD - Columbia University College of Physicians and Surgeons",
+    "consultationFee": 130,
+    "availableDates": [
+      {
+        "date": "2026-10-20",
+        "slots": ["08:30 AM", "10:00 AM", "11:30 AM", "02:00 PM", "04:00 PM"]
+      },
+      {
+        "date": "2026-10-21",
+        "slots": ["09:00 AM", "12:00 PM", "03:00 PM"]
+      }
+    ]
+  },
+  {
+    "id": "doc-05",
+    "name": "Dr. Rachel Kim",
+    "specialty": "Emergency Medicine",
+    "departmentId": "dept-06",
+    "rating": 4.7,
+    "reviewCount": 85,
+    "experienceYears": 11,
+    "availability": "Available Today",
+    "imageUrl": "https://broken-image-test-fallback.invalid/dr-rachel-kim-broken.jpg",
+    "hospitalAffiliation": "Vectox Level 1 Trauma Center",
+    "bio": "Emergency response specialist leading trauma telemetry stabilization, cardiac arrest protocol dispatch, and acute triage management. (Demonstrates image fallback).",
+    "education": "MD - Yale School of Medicine",
+    "consultationFee": 150,
+    "availableDates": [
+      {
+        "date": "2026-10-20",
+        "slots": ["07:00 AM", "11:00 AM", "03:00 PM", "07:00 PM"]
+      }
+    ]
+  },
+  {
+    "id": "doc-06",
+    "name": "Dr. Maya Patel",
+    "specialty": "Dermatology",
+    "departmentId": "dept-08",
+    "rating": 4.9,
+    "reviewCount": 160,
+    "experienceYears": 9,
+    "availability": "Available Today",
+    "imageUrl": "https://images.unsplash.com/photo-1614608682850-e0d6ed316d47?w=400&auto=format&fit=crop&q=80",
+    "hospitalAffiliation": "Vectox Dermatology & Allergy Clinic",
+    "bio": "Expertise in complex autoimmune dermatoses, dermatopathology, dermoscopy surveillance, and medical laser therapeutics.",
+    "education": "MD - University of California, San Francisco",
+    "consultationFee": 140,
+    "availableDates": [
+      {
+        "date": "2026-10-20",
+        "slots": ["09:00 AM", "10:30 AM", "01:00 PM"]
+      },
+      {
+        "date": "2026-10-22",
+        "slots": ["08:30 AM", "11:00 AM", "02:30 PM"]
+      }
+    ]
+  },
+  {
+    "id": "doc-07",
+    "name": "Dr. Alistair Finch",
+    "specialty": "Oncology",
+    "departmentId": "dept-05",
+    "rating": 4.8,
+    "reviewCount": 77,
+    "experienceYears": 22,
+    "availability": "Next Available: Tomorrow",
+    "imageUrl": "https://images.unsplash.com/photo-1622902046580-2b47f47f5471?w=400&auto=format&fit=crop&q=80",
+    "hospitalAffiliation": "Vectox Cancer Institute",
+    "bio": "Principal investigator in next-generation targeted antibody-drug conjugates and personalized genomic immunotherapy protocols.",
+    "education": "MD, PhD - Oxford University Clinical School",
+    "consultationFee": 220,
+    "availableDates": [
+      {
+        "date": "2026-10-21",
+        "slots": ["10:00 AM", "02:00 PM", "04:00 PM"]
+      },
+      {
+        "date": "2026-10-23",
+        "slots": ["09:00 AM", "11:30 AM"]
+      }
+    ]
+  },
+  {
+    "id": "doc-08",
+    "name": "Dr. David Sterling",
+    "specialty": "Radiology",
+    "departmentId": "dept-07",
+    "rating": 4.9,
+    "reviewCount": 113,
+    "experienceYears": 15,
+    "availability": "Available Today",
+    "imageUrl": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=400&auto=format&fit=crop&q=80",
+    "hospitalAffiliation": "Vectox Imaging & Intervention Center",
+    "bio": "Subspecialized in cardiovascular MRI, stroke perfusion CT, and image-guided minimally invasive needle biopsies.",
+    "education": "MD - Duke University School of Medicine",
+    "consultationFee": 170,
+    "availableDates": [
+      {
+        "date": "2026-10-20",
+        "slots": ["08:00 AM", "10:30 AM", "01:00 PM", "03:30 PM"]
+      }
+    ]
+  },
+  {
+    "id": "doc-09",
+    "name": "Dr. Emily Zhao",
+    "specialty": "Cardiology",
+    "departmentId": "dept-01",
+    "rating": 4.7,
+    "reviewCount": 64,
+    "experienceYears": 8,
+    "availability": "Available Today",
+    "imageUrl": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&auto=format&fit=crop&q=80",
+    "hospitalAffiliation": "Vectox Heart Institute",
+    "bio": "Specialist in preventive cardiology, cardiac imaging, and female cardiovascular risk profiling.",
+    "education": "MD - Northwestern University Feinberg School of Medicine",
+    "consultationFee": 145,
+    "availableDates": [
+      {
+        "date": "2026-10-20",
+        "slots": ["11:00 AM", "01:30 PM", "04:30 PM"]
+      },
+      {
+        "date": "2026-10-22",
+        "slots": ["09:30 AM", "02:00 PM"]
+      }
+    ]
+  },
+  {
+    "id": "doc-10",
+    "name": "Dr. Tariq Al-Mansoor",
+    "specialty": "Neurology",
+    "departmentId": "dept-02",
+    "rating": 4.9,
+    "reviewCount": 98,
+    "experienceYears": 13,
+    "availability": "On Leave",
+    "imageUrl": "https://broken-image-test-fallback.invalid/dr-tariq-broken.jpg",
+    "hospitalAffiliation": "Vectox Neuro & Spine Center",
+    "bio": "Movement disorder neurologist focusing on Parkinsonian tremors, deep brain stimulation (DBS) telemetry calibration, and migraine prophylaxis. (Demonstrates image fallback).",
+    "education": "MD - University of Toronto Faculty of Medicine",
+    "consultationFee": 165,
+    "availableDates": []
+  },
+  {
+    "id": "doc-11",
+    "name": "Dr. Chloe Martin",
+    "specialty": "Pediatrics",
+    "departmentId": "dept-04",
+    "rating": 4.8,
+    "reviewCount": 82,
+    "experienceYears": 7,
+    "availability": "Available Today",
+    "imageUrl": "https://images.unsplash.com/photo-1527613426441-4da17471b66d?w=400&auto=format&fit=crop&q=80",
+    "hospitalAffiliation": "Vectox Children's Wing",
+    "bio": "General outpatient pediatrics, vaccination tracking, childhood nutrition, and adolescent wellness.",
+    "education": "MD - University of Washington School of Medicine",
+    "consultationFee": 120,
+    "availableDates": [
+      {
+        "date": "2026-10-20",
+        "slots": ["09:30 AM", "11:00 AM", "01:30 PM", "03:30 PM"]
+      }
+    ]
+  },
+  {
+    "id": "doc-12",
+    "name": "Dr. Gregory House-Smith",
+    "specialty": "Diagnostic Medicine",
+    "departmentId": "dept-06",
+    "rating": 4.6,
+    "reviewCount": 51,
+    "experienceYears": 24,
+    "availability": "Available Today",
+    "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=400&auto=format&fit=crop&q=80",
+    "hospitalAffiliation": "Vectox Diagnostic Core",
+    "bio": "Senior diagnostician resolving complex medical anomalies, idiopathic fevers, and multi-system rare pathology.",
+    "education": "MD - University of Chicago Pritzker School of Medicine",
+    "consultationFee": 250,
+    "availableDates": [
+      {
+        "date": "2026-10-20",
+        "slots": ["02:00 PM", "03:30 PM"]
+      }
+    ]
+  },
+  {
+    "id": "doc-13",
+    "name": "Dr. Sophia Lindqvist",
+    "specialty": "Orthopedics",
+    "departmentId": "dept-03",
+    "rating": 4.9,
+    "reviewCount": 115,
+    "experienceYears": 10,
+    "availability": "Available Today",
+    "imageUrl": "https://images.unsplash.com/photo-1623854767648-e7bb8009f0db?w=400&auto=format&fit=crop&q=80",
+    "hospitalAffiliation": "Vectox Orthopedic Pavilion",
+    "bio": "Hand and microvascular surgeon specializing in peripheral nerve repair, carpal tunnel endoscopic release, and wrist trauma.",
+    "education": "MD - Karolinska Institute",
+    "consultationFee": 175,
+    "availableDates": [
+      {
+        "date": "2026-10-20",
+        "slots": ["10:00 AM", "11:30 AM", "02:00 PM"]
+      },
+      {
+        "date": "2026-10-21",
+        "slots": ["09:00 AM", "01:00 PM"]
+      }
+    ]
+  },
+  {
+    "id": "doc-14",
+    "name": "Dr. Julian Ross",
+    "specialty": "Oncology",
+    "departmentId": "dept-05",
+    "rating": 4.8,
+    "reviewCount": 67,
+    "experienceYears": 14,
+    "availability": "Next Available: Tomorrow",
+    "imageUrl": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=400&auto=format&fit=crop&q=80",
+    "hospitalAffiliation": "Vectox Cancer Institute",
+    "bio": "Radiation oncologist utilizing Varian Edge stereotactic body radiation therapy (SBRT) for localized tumors.",
+    "education": "MD - University of Pennsylvania Perelman School of Medicine",
+    "consultationFee": 195,
+    "availableDates": [
+      {
+        "date": "2026-10-21",
+        "slots": ["08:30 AM", "10:30 AM", "02:30 PM"]
+      }
+    ]
+  },
+  {
+    "id": "doc-15",
+    "name": "Dr. Priya Nair",
+    "specialty": "Dermatology",
+    "departmentId": "dept-08",
+    "rating": 4.9,
+    "reviewCount": 89,
+    "experienceYears": 11,
+    "availability": "Available Today",
+    "imageUrl": "https://images.unsplash.com/photo-1594824813571-638f02634417?w=400&auto=format&fit=crop&q=80",
+    "hospitalAffiliation": "Vectox Dermatology Clinic",
+    "bio": "Pediatric and adult dermatology, severe psoriasis biologics management, and eczema clinical trials.",
+    "education": "MD - King's College London",
+    "consultationFee": 135,
+    "availableDates": [
+      {
+        "date": "2026-10-20",
+        "slots": ["09:00 AM", "11:00 AM", "01:00 PM", "03:00 PM"]
+      }
+    ]
+  }
+]
