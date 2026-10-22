@@ -1,0 +1,74 @@
+[
+  {
+    "id": "fac-01",
+    "name": "Level 1 Emergency & Trauma Center",
+    "availability": "24/7 Rapid Response",
+    "location": "Ground Floor, Dedicated East Ramp",
+    "description": "Comprehensive resuscitation bays, direct dedicated elevator to OR suites, and CT imaging within 20 meters.",
+    "capacity": "32 Acute Bays • 4 Resuscitation Suites",
+    "imageUrl": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "fac-02",
+    "name": "Robotic Surgical Operative Suites",
+    "availability": "Operating 24/7",
+    "location": "Floor 3, Surgical Core",
+    "description": "Laminar flow positive pressure ORs equipped with da Vinci Xi robotic systems and 4K intraoperative neuro-navigation.",
+    "capacity": "12 Ultra-Clean Theatres",
+    "imageUrl": "https://images.unsplash.com/photo-1551076805-e1869033e561?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "fac-03",
+    "name": "Intensive Care & Telemetry Unit (ICU)",
+    "availability": "Continuous 24/7 Surveillance",
+    "location": "Floor 4, Wing A",
+    "description": "Central station telemetry monitoring with 1:1 clinician ratio, high-frequency ventilators, and hemodialysis access.",
+    "capacity": "48 Critical Care Isolation Beds",
+    "imageUrl": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "fac-04",
+    "name": "Biplane Cardiac Catheterization Lab",
+    "availability": "24/7 STEMI On-Call",
+    "location": "Floor 3, Wing B",
+    "description": "Rapid door-to-balloon emergency coronary angioplasty, transcatheter aortic valve replacement (TAVR), and electrophysiology.",
+    "capacity": "3 Dedicated Cath Suites",
+    "imageUrl": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "fac-05",
+    "name": "Automated Clinical Pathology Core",
+    "availability": "24/7 Turnaround",
+    "location": "Basement 1, Laboratory Complex",
+    "description": "Pneumatic tube-linked robotic specimen tracks delivering stat blood gas and hematology in sub-15 minutes.",
+    "capacity": "5,000 Samples Daily Throughput",
+    "imageUrl": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "fac-06",
+    "name": "24/7 Inpatient & Outpatient Pharmacy",
+    "availability": "Open All Hours",
+    "location": "Ground Floor Main Lobby",
+    "description": "Automated medication dispensing cabinets, sterile IV compounding cleanroom, and prescription delivery services.",
+    "capacity": "Over 2,500 Formularies Stocked",
+    "imageUrl": "https://images.unsplash.com/photo-1586015555751-63c239401777?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "fac-07",
+    "name": "Pediatric & Neonatal Intensive Care (NICU)",
+    "availability": "24/7 Specialized Care",
+    "location": "Floor 2, Children's Wing",
+    "description": "Level III neonatal incubators with nitric oxide therapy, cooling caps for hypoxic encephalopathy, and kangaroo-care private pods.",
+    "capacity": "24 Private Micro-Environment Pods",
+    "imageUrl": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "fac-08",
+    "name": "Rooftop Trauma Helipad & Aero-Medical Port",
+    "availability": "24/7 All-Weather Rated",
+    "location": "Tower Rooftop",
+    "description": "Direct express hydraulic trauma elevator reaching Level 1 resuscitation bays in under 45 seconds.",
+    "capacity": "Twin Air-Ambulance Landing Deck",
+    "imageUrl": "https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?w=600&auto=format&fit=crop&q=80"
+  }
+]

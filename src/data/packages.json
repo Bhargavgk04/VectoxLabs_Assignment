@@ -1,0 +1,53 @@
+[
+  {
+    "id": "pkg-01",
+    "title": "Executive Comprehensive Health Check",
+    "badge": "MOST POPULAR • 40% OFF",
+    "subtitle": "Complete whole-body screening including 3T MRI, full cardiac evaluation, and metabolic lab battery.",
+    "originalPrice": 850,
+    "discountedPrice": 499,
+    "includesTestsCount": 68,
+    "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=800&auto=format&fit=crop&q=80",
+    "features": [
+      "Whole-Body 3T MRI & High-Res Chest CT",
+      "12-Lead ECG & Echocardiogram Analysis",
+      "Full Lipid, Liver, Renal & Thyroid Profile",
+      "Physician 1-on-1 Consultation & Custom Report"
+    ],
+    "description": "Designed for working professionals seeking proactive preventative diagnostic clarity. Includes dedicated priority lounge check-in, light gourmet breakfast post-fasting, and direct specialist consultations."
+  },
+  {
+    "id": "pkg-02",
+    "title": "Advanced Cardiovascular Risk Screening",
+    "badge": "CLINICAL SPECIALTY",
+    "subtitle": "Targeted heart disease prevention with calcium scoring, stress echocardiogram, and genetic biomarkers.",
+    "originalPrice": 620,
+    "discountedPrice": 379,
+    "includesTestsCount": 34,
+    "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?w=800&auto=format&fit=crop&q=80",
+    "features": [
+      "Coronary Calcium Score (CT Scan)",
+      "Treadmill Stress Echo & Holter Review",
+      "Apolipoprotein B & hs-CRP Inflammatory Markers",
+      "Cardiologist Diet & Exercise Prescription"
+    ],
+    "description": "Essential protocol for individuals with a family history of coronary artery disease, elevated cholesterol, or hypertension. Led by Vectox Heart Institute specialists."
+  },
+  {
+    "id": "pkg-03",
+    "title": "Senior Citizen Vitality & Bone Care",
+    "badge": "AGE 60+ SPECIAL",
+    "subtitle": "Comprehensive geriatric wellness assessment focusing on bone density (DEXA), arthritis, and neuro-cognitive screening.",
+    "originalPrice": 540,
+    "discountedPrice": 320,
+    "includesTestsCount": 45,
+    "imageUrl": "https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?w=800&auto=format&fit=crop&q=80",
+    "features": [
+      "Dual-Energy X-Ray Bone Mineral Density (DEXA)",
+      "Arthritis Joint Ultrasound & Mobility Index",
+      "Vitamin D3, B12, Calcium & Electrolytes",
+      "Geriatric Fall Risk & Cognitive Screening"
+    ],
+    "description": "Gentle, non-invasive assessment tailored specifically for older adults. Includes mobility assistance, doorstep report delivery, and priority booking."
+  }
+]
