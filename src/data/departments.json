@@ -1,0 +1,90 @@
+[
+  {
+    "id": "dept-01",
+    "name": "Cardiology & Vascular",
+    "code": "CARD",
+    "headDoctor": "Dr. Sarah Jenkins, FACC",
+    "floor": "Floor 3, Wing A",
+    "activeDoctorsCount": 6,
+    "description": "Comprehensive cardiac diagnostics, interventional catheterization, and post-surgical rehabilitation.",
+    "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?w=600&auto=format&fit=crop&q=80",
+    "iconName": "HeartPulse"
+  },
+  {
+    "id": "dept-02",
+    "name": "Neurology & Neurosurgery",
+    "code": "NEUR",
+    "headDoctor": "Dr. Aaron Vance, MD",
+    "floor": "Floor 4, Wing B",
+    "activeDoctorsCount": 5,
+    "description": "Advanced stroke management, neuro-trauma critical care, and precision spine intervention.",
+    "imageUrl": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&auto=format&fit=crop&q=80",
+    "iconName": "Brain"
+  },
+  {
+    "id": "dept-03",
+    "name": "Orthopedics & Joint Care",
+    "code": "ORTH",
+    "headDoctor": "Dr. Marcus Thorne, MS",
+    "floor": "Floor 2, Wing C",
+    "activeDoctorsCount": 4,
+    "description": "Robotic joint arthroplasty, complex sports trauma reconstruction, and spinal fusion.",
+    "imageUrl": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=600&auto=format&fit=crop&q=80",
+    "iconName": "Bone"
+  },
+  {
+    "id": "dept-04",
+    "name": "Pediatrics & Neonatology",
+    "code": "PED",
+    "headDoctor": "Dr. Elena Rostova, MD",
+    "floor": "Floor 2, Wing A",
+    "activeDoctorsCount": 5,
+    "description": "24/7 dedicated Level-III NICU, pediatric immunology, and developmental pediatrics.",
+    "imageUrl": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?w=600&auto=format&fit=crop&q=80",
+    "iconName": "Baby"
+  },
+  {
+    "id": "dept-05",
+    "name": "Oncology & Hematology",
+    "code": "ONCO",
+    "headDoctor": "Dr. Alistair Finch, PhD",
+    "floor": "Floor 5, Wing A",
+    "activeDoctorsCount": 4,
+    "description": "Immunotherapy, precision targeted oncology, bone marrow transplants, and palliative care.",
+    "imageUrl": "https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?w=600&auto=format&fit=crop&q=80",
+    "iconName": "Activity"
+  },
+  {
+    "id": "dept-06",
+    "name": "Emergency & Trauma",
+    "code": "EMRG",
+    "headDoctor": "Dr. Rachel Kim, MD",
+    "floor": "Ground Floor, Rapid Bay",
+    "activeDoctorsCount": 8,
+    "description": "24/7 resuscitation, rapid disaster response team, and emergency telemetry command.",
+    "imageUrl": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=600&auto=format&fit=crop&q=80",
+    "iconName": "AlertCircle"
+  },
+  {
+    "id": "dept-07",
+    "name": "Radiology & Imaging",
+    "code": "RAD",
+    "headDoctor": "Dr. David Sterling, FACR",
+    "floor": "Basement 1, Diagnostic Core",
+    "activeDoctorsCount": 4,
+    "description": "3T MRI, 128-slice dual-energy CT, digital fluoroscopy, and nuclear medicine.",
+    "imageUrl": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?w=600&auto=format&fit=crop&q=80",
+    "iconName": "Scan"
+  },
+  {
+    "id": "dept-08",
+    "name": "Dermatology & Allergy",
+    "code": "DERM",
+    "headDoctor": "Dr. Maya Patel, MD",
+    "floor": "Floor 1, Clinic Suite 104",
+    "activeDoctorsCount": 3,
+    "description": "Immune dermatoses, laser surgical therapies, patch testing, and oncologic skin surveillance.",
+    "imageUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&auto=format&fit=crop&q=80",
+    "iconName": "Sparkles"
+  }
+]
