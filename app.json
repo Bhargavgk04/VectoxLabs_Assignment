@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Vectox Hospital",
+    "slug": "vectox-hospital",
+    "scheme": "vectox-hospital",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "newArchEnabled": true,
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F8FAFC"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.vectox.hospital"
+    },
+    "android": {
+      "package": "com.vectox.hospital",
+      "adaptiveIcon": {
+        "backgroundColor": "#F8FAFC",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

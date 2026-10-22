@@ -1,2 +1,41 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro & Logs
+.metro-health-check*
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# Workspace Specific & Temp
 Basic things for website.txt
 How the color should be in website.txt
+temp-app/
+docs/
+
+# TypeScript
+*.tsbuildinfo
+
+# Generated Native Folders
+/ios
+/android
+
+.agents
+.github
+skills-lock.json
