@@ -28,6 +28,7 @@ Basic things for website.txt
 How the color should be in website.txt
 temp-app/
 docs/
+*.zip
 
 # TypeScript
 *.tsbuildinfo
