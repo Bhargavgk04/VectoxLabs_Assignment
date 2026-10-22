@@ -1,0 +1,218 @@
+[
+  {
+    "id": "q-01",
+    "patientId": "p-01",
+    "patientName": "Elena Rostova",
+    "patientAge": 48,
+    "patientGender": "F",
+    "urgency": "Urgent",
+    "lastVisitDate": "2026-09-18",
+    "diagnoses": ["Mitral Valve Regurgitation (Post-Op)", "Hypertension"],
+    "allergies": ["Penicillin", "Sulfa Drugs"],
+    "vitalsTrend": [
+      { "bp": "138/88", "pulse": 82, "spo2": 97, "recordedAt": "Visit 1 (30d ago)" },
+      { "bp": "128/82", "pulse": 76, "spo2": 98, "recordedAt": "Visit 2 (14d ago)" },
+      { "bp": "118/76", "pulse": 72, "spo2": 98, "recordedAt": "Today's Telemetry" }
+    ],
+    "lastPrescription": {
+      "id": "rx-101",
+      "medication": "Atorvastatin Calcium",
+      "dosage": "20mg Oral Daily",
+      "frequency": "Once daily at bedtime",
+      "durationDays": 30,
+      "instructions": "Take with water. Maintain low sodium intake.",
+      "refillsRemaining": 1,
+      "prescribedBy": "Dr. Sarah Jenkins, MD",
+      "prescribedAt": "2026-09-18"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "q-02",
+    "patientId": "p-02",
+    "patientName": "Marcus Chen",
+    "patientAge": 62,
+    "patientGender": "M",
+    "urgency": "Routine",
+    "lastVisitDate": "2026-09-20",
+    "diagnoses": ["Type 2 Diabetes Mellitus", "Post-Stroke Prophylaxis"],
+    "allergies": ["Aspirin"],
+    "vitalsTrend": [
+      { "bp": "142/90", "pulse": 88, "spo2": 96, "recordedAt": "Visit 1 (30d ago)" },
+      { "bp": "136/86", "pulse": 84, "spo2": 97, "recordedAt": "Visit 2 (14d ago)" },
+      { "bp": "130/82", "pulse": 78, "spo2": 98, "recordedAt": "Today's Telemetry" }
+    ],
+    "lastPrescription": {
+      "id": "rx-102",
+      "medication": "Metformin Hydrochloride",
+      "dosage": "500mg Extended Release",
+      "frequency": "Twice daily with meals",
+      "durationDays": 60,
+      "instructions": "Do not crush. Take with breakfast and dinner.",
+      "refillsRemaining": 2,
+      "prescribedBy": "Dr. Aaron Vance, MD",
+      "prescribedAt": "2026-09-20"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "q-03",
+    "patientId": "p-03",
+    "patientName": "Sarah Jenkins",
+    "patientAge": 31,
+    "patientGender": "F",
+    "urgency": "Stable",
+    "lastVisitDate": "2026-09-22",
+    "diagnoses": ["Moderate Persistent Asthma"],
+    "allergies": [],
+    "vitalsTrend": [
+      { "bp": "120/80", "pulse": 74, "spo2": 96, "recordedAt": "Visit 1 (30d ago)" },
+      { "bp": "118/78", "pulse": 72, "spo2": 98, "recordedAt": "Today's Telemetry" }
+    ],
+    "lastPrescription": {
+      "id": "rx-103",
+      "medication": "Budesonide/Formoterol Inhaler",
+      "dosage": "160/4.5 mcg/actuation",
+      "frequency": "2 puffs twice daily",
+      "durationDays": 30,
+      "instructions": "Rinse mouth thoroughly with water after inhalation.",
+      "refillsRemaining": 3,
+      "prescribedBy": "Dr. Elena Rostova, MD",
+      "prescribedAt": "2026-09-22"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "q-04",
+    "patientId": "p-04",
+    "patientName": "Robert Callahan",
+    "patientAge": 55,
+    "patientGender": "M",
+    "urgency": "Routine",
+    "lastVisitDate": "2026-09-24",
+    "diagnoses": ["Severe Osteoarthritis", "Post-Op Knee Joint"],
+    "allergies": ["Codeine"],
+    "vitalsTrend": [
+      { "bp": "130/84", "pulse": 78, "spo2": 98, "recordedAt": "Visit 1" },
+      { "bp": "124/80", "pulse": 75, "spo2": 99, "recordedAt": "Today's Telemetry" }
+    ],
+    "lastPrescription": {
+      "id": "rx-104",
+      "medication": "Celecoxib",
+      "dosage": "200mg Capsules",
+      "frequency": "Once daily with food",
+      "durationDays": 30,
+      "instructions": "Take with breakfast. Report any GI discomfort.",
+      "refillsRemaining": 1,
+      "prescribedBy": "Dr. Marcus Thorne, MS",
+      "prescribedAt": "2026-09-24"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "q-05",
+    "patientId": "p-09",
+    "patientName": "Sofia Morales",
+    "patientAge": 36,
+    "patientGender": "F",
+    "urgency": "Urgent",
+    "lastVisitDate": "2026-09-25",
+    "diagnoses": ["Paroxysmal SVT", "Essential Hypertension"],
+    "allergies": ["ACE Inhibitors", "Lisinopril"],
+    "vitalsTrend": [
+      { "bp": "144/92", "pulse": 105, "spo2": 97, "recordedAt": "Visit 1" },
+      { "bp": "134/86", "pulse": 88, "spo2": 98, "recordedAt": "Today's Telemetry" }
+    ],
+    "lastPrescription": {
+      "id": "rx-105",
+      "medication": "Metoprolol Succinate ER",
+      "dosage": "50mg Tablet",
+      "frequency": "Once daily in the morning",
+      "durationDays": 30,
+      "instructions": "Hold dose if resting heart rate drops below 55 bpm.",
+      "refillsRemaining": 2,
+      "prescribedBy": "Dr. Sarah Jenkins, MD",
+      "prescribedAt": "2026-09-25"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "q-06",
+    "patientId": "p-10",
+    "patientName": "David Kim",
+    "patientAge": 51,
+    "patientGender": "M",
+    "urgency": "Stable",
+    "lastVisitDate": "2026-09-28",
+    "diagnoses": ["Chronic Cluster Headache"],
+    "allergies": [],
+    "vitalsTrend": [
+      { "bp": "122/80", "pulse": 70, "spo2": 99, "recordedAt": "Visit 1" },
+      { "bp": "118/76", "pulse": 68, "spo2": 99, "recordedAt": "Today's Telemetry" }
+    ],
+    "lastPrescription": {
+      "id": "rx-106",
+      "medication": "Verapamil Hydrochloride ER",
+      "dosage": "240mg Tablet",
+      "frequency": "Once daily with evening meal",
+      "durationDays": 60,
+      "instructions": "Do not chew or crush extended-release tablets.",
+      "refillsRemaining": 3,
+      "prescribedBy": "Dr. Aaron Vance, MD",
+      "prescribedAt": "2026-09-28"
+    },
+    "status": "renewed"
+  },
+  {
+    "id": "q-07",
+    "patientId": "p-13",
+    "patientName": "Zoe Kravitz",
+    "patientAge": 39,
+    "patientGender": "F",
+    "urgency": "Stable",
+    "lastVisitDate": "2026-09-29",
+    "diagnoses": ["Mitral Valve Prolapse"],
+    "allergies": [],
+    "vitalsTrend": [
+      { "bp": "116/74", "pulse": 72, "spo2": 98, "recordedAt": "Today's Telemetry" }
+    ],
+    "lastPrescription": {
+      "id": "rx-107",
+      "medication": "Propranolol HCl",
+      "dosage": "20mg Oral Tablet",
+      "frequency": "Twice daily as needed for palpitations",
+      "durationDays": 30,
+      "instructions": "Take before stressful physical exertion.",
+      "refillsRemaining": 2,
+      "prescribedBy": "Dr. Sarah Jenkins, MD",
+      "prescribedAt": "2026-09-29"
+    },
+    "status": "renewed"
+  },
+  {
+    "id": "q-08",
+    "patientId": "p-18",
+    "patientName": "Gabriel Santos",
+    "patientAge": 45,
+    "patientGender": "M",
+    "urgency": "Routine",
+    "lastVisitDate": "2026-09-30",
+    "diagnoses": ["Parkinsonian Resting Tremor"],
+    "allergies": [],
+    "vitalsTrend": [
+      { "bp": "128/82", "pulse": 76, "spo2": 97, "recordedAt": "Today's Telemetry" }
+    ],
+    "lastPrescription": {
+      "id": "rx-108",
+      "medication": "Ropinirole HCl",
+      "dosage": "1mg Tablet",
+      "frequency": "Three times daily with meals",
+      "durationDays": 30,
+      "instructions": "Gradually titrate dosage as directed by neurologist.",
+      "refillsRemaining": 1,
+      "prescribedBy": "Dr. Aaron Vance, MD",
+      "prescribedAt": "2026-09-30"
+    },
+    "status": "renewed"
+  }
+]
