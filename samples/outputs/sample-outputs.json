@@ -1,0 +1,23 @@
+{
+  "bookingConfirmation": {
+    "confirmationId": "VX-2026-98124",
+    "status": "Confirmed",
+    "doctorName": "Dr. Sarah Jenkins",
+    "specialty": "Cardiology",
+    "patientName": "Elena Rostova",
+    "dateTime": "2026-10-22 at 10:30 AM",
+    "roomNumber": "Suite 402 - Heart Center",
+    "consultationFee": 150,
+    "instructions": "Please arrive 15 minutes prior with previous ECG records."
+  },
+  "renewalConfirmation": {
+    "renewalId": "RX-RNW-88194",
+    "status": "Transmitted to Pharmacy",
+    "medication": "Atorvastatin 10mg",
+    "durationDays": 60,
+    "refillsGranted": 2,
+    "doctorName": "Dr. Aaron Vance, MD",
+    "timestamp": "2026-10-19T10:14:22Z",
+    "undoWindowSeconds": 5
+  }
+}

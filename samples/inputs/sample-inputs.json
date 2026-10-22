@@ -1,0 +1,30 @@
+{
+  "searchQueries": [
+    "cardio",
+    "Sarah",
+    "Orthopedic",
+    "neurology",
+    "Vance"
+  ],
+  "sampleBookings": [
+    {
+      "doctorId": "doc-01",
+      "doctorName": "Dr. Sarah Jenkins",
+      "specialty": "Cardiology",
+      "date": "2026-10-22",
+      "slot": "10:30 AM",
+      "patientName": "Elena Rostova",
+      "consultationType": "In-Person",
+      "notes": "Post-op cardiology routine follow-up"
+    }
+  ],
+  "sampleRxRenewals": [
+    {
+      "queueItemId": "q-01",
+      "patientId": "p-01",
+      "adjustedDosage": "10mg daily",
+      "adjustedDuration": 60,
+      "urgency": "Routine"
+    }
+  ]
+}
